@@ -30,11 +30,5 @@
 
 ![](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 
-<div align="center">
-
-</div>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 </br>
 
