@@ -9,6 +9,7 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeIbrahim&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+<div style="display: inline_block"><br>
 <i class="devicon-android-plain-wordmark"></i>         
 <i class="devicon-androidstudio-plain-wordmark"></i>         
 <i class="devicon-cplusplus-line-wordmark"></i>         
@@ -19,5 +20,4 @@
 <i class="devicon-unity-original-wordmark"></i>         
 <i class="devicon-bash-plain"></i>
 <i class="devicon-gentoo-plain-wordmark"></i>
-          
-   
+</div>
