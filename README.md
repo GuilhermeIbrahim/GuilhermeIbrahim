@@ -10,14 +10,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-<i class="devicon-android-plain-wordmark"></i>         
-<i class="devicon-androidstudio-plain-wordmark"></i>         
-<i class="devicon-cplusplus-line-wordmark"></i>         
-<i class="devicon-csharp-line-wordmark"></i>         
-<i class="devicon-kotlin-plain-wordmark"></i>         
-<i class="devicon-linux-plain"></i>       
-<i class="devicon-python-plain-wordmark"></i>
-<i class="devicon-unity-original-wordmark"></i>         
-<i class="devicon-bash-plain"></i>
-<i class="devicon-gentoo-plain-wordmark"></i>
+     <i class="devicon-android-plain-wordmark"></i>         
+     <i class="devicon-androidstudio-plain-wordmark"></i>         
+     <i class="devicon-cplusplus-line-wordmark"></i>         
+     <i class="devicon-csharp-line-wordmark"></i>         
+     <i class="devicon-kotlin-plain-wordmark"></i>         
+     <i class="devicon-linux-plain"></i>       
+     <i class="devicon-python-plain-wordmark"></i>
+     <i class="devicon-unity-original-wordmark"></i>         
+     <i class="devicon-bash-plain"></i>
+     <i class="devicon-gentoo-plain-wordmark"></i>
 </div>
