@@ -23,3 +23,5 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />    
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </div>
+
+![Snake animation](https://github.com/GuilhermeIbrahim/GuilhermeIbrahim/blob/output/github-contribution-grid-snake.svg)
