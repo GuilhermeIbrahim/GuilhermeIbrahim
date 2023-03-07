@@ -10,7 +10,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-     <i class="devicon-android-plain-wordmark"></i>         
+     <img align="center" alt="android" height="30" width="40" src="<i class="devicon-android-plain-wordmark"></i> ">
+             
      <i class="devicon-androidstudio-plain-wordmark"></i>         
      <i class="devicon-cplusplus-line-wordmark"></i>         
      <i class="devicon-csharp-line-wordmark"></i>         
