@@ -1,7 +1,7 @@
 ## Olá! Eu sou Ibrahim Guilherme 
 
 # 💫 About Me:
-🔭 Atualmente sou estudante<br>🌱 Estudando Django<br>😄 Pronomes: Todos
+🔭 Atualmente sou estudante<br>🌱 Estudando Django<br>😄
 
 
 ## 🌐 Socials:
